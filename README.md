@@ -63,5 +63,5 @@ Decision Tree Regressor is a non-linear model that splits the data into subsets 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KrrishNichanii/diamond-price-prediction.git
+
 
